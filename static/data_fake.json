@@ -1,0 +1,1700 @@
+{
+    "1736490702908101110": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1736490702908101110,
+        "tweet_user": "ulli2251",
+        "tweet_url": "https://twitter.com/ulli2251/status/1736490702908101110",
+        "tweet_date": "2023-12-17 20:57:00+00:00",
+        "tweet_text": "Miscreants attack and damage my car @3rdEyeDude @alokkumar6994 @nmltrafficbng @blrcitytraffic @Jointcptraffic @bngdistpol https://t.co/jb5Uk0kNzU",
+        "tweet_lang": "en",
+        "tweet_popularity": {
+            "viewCount": 209926,
+            "likeCount": 572,
+            "replyCount": 32,
+            "retweetCount": 142,
+            "quoteCount": 19
+        },
+        "tweet_location": {
+            "place": null,
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1736490494170222592/pu/vid/avc1/1280x720/4FgPnBRSwV9iRRT2.mp4?tag=12"
+        ],
+        "quoted_by": {
+            "1736619476685340883": {
+                "tweet_status": "quoted_tweet",
+                "tweet_id": 1736619476685340883,
+                "tweet_user": "3rdEyeDude",
+                "tweet_url": "https://twitter.com/3rdEyeDude/status/1736619476685340883",
+                "tweet_date": "2023-12-18 05:28:42+00:00",
+                "tweet_text": "Please check this road rage incident where miscreants have damaged his vehicle \ud83d\udc47 @BlrCityPolice @blrcitytraffic",
+                "tweet_lang": "en",
+                "tweet_popularity": {
+                    "viewCount": 44765,
+                    "likeCount": 288,
+                    "replyCount": 14,
+                    "retweetCount": 88,
+                    "quoteCount": 1
+                },
+                "tweet_location": {
+                    "place": null,
+                    "coordinates": null
+                },
+                "tweet_media_urls": [],
+                "quoted_tweet_id": 1736490702908101110,
+                "replied_by": {
+                    "1736639866648310259": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736639866648310259",
+                        "tweet_user": "@BlrCityPolice",
+                        "tweet_url": "https://twitter.com/BlrCityPolice/status/1736639866648310259",
+                        "tweet_date": "2023-12-18T06:49:00.000Z",
+                        "tweet_text": "@bngdistpol",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 13,
+                            "replyCount": 1,
+                            "retweetCount": 3,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736936624951300452": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736936624951300452",
+                        "tweet_user": "@Pradumkp025",
+                        "tweet_url": "https://twitter.com/Pradumkp025/status/1736936624951300452",
+                        "tweet_date": "2023-12-19T02:28:00.000Z",
+                        "tweet_text": "@ezdubs_bot tamil to hindi",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736758874152239149": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736758874152239149",
+                        "tweet_user": "@motordave2",
+                        "tweet_url": "https://twitter.com/motordave2/status/1736758874152239149",
+                        "tweet_date": "2023-12-18T14:42:00.000Z",
+                        "tweet_text": "When someone travels with family and kids - try to let go vehicles which are trying to cut that way. Getting into an argument just because someone has a Dash Cam won\u2019t work. Unnecessary arguments will put the family under risk. I saw the videos - he should had let go\u2026",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736641184704205076": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736641184704205076",
+                        "tweet_user": "@PraveenRangaiah",
+                        "tweet_url": "https://twitter.com/PraveenRangaiah/status/1736641184704205076",
+                        "tweet_date": "2023-12-18T06:54:00.000Z",
+                        "tweet_text": "This is the usual scene on the Nelamanagal-Tumkur highway, exacerbated by the narrow road and a lack of line discipline among various types of vehicles like trucks. Improved infrastructure and better adherence to traffic rules could alleviate these issues.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 11,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736624118391304588": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736624118391304588",
+                        "tweet_user": "@ani625",
+                        "tweet_url": "https://twitter.com/ani625/status/1736624118391304588",
+                        "tweet_date": "2023-12-18T05:47:00.000Z",
+                        "tweet_text": "Stopping someone for a simple issue is the trait of rowdies like those guys were. Also, this guy shouldn't have angered them even further, especially when he's with family.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 26,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736644864987779103": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736644864987779103",
+                        "tweet_user": "@yogi99166",
+                        "tweet_url": "https://twitter.com/yogi99166/status/1736644864987779103",
+                        "tweet_date": "2023-12-18T07:09:00.000Z",
+                        "tweet_text": "@ulli2251 plz update us about the case status",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 5,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736844500641907127": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736844500641907127",
+                        "tweet_user": "@Looser2415",
+                        "tweet_url": "https://twitter.com/Looser2415/status/1736844500641907127",
+                        "tweet_date": "2023-12-18T20:22:00.000Z",
+                        "tweet_text": "Day by day this type of issue is increasing. Karnataka rakshakare elidirappa.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 3,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736631911219614008": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736631911219614008",
+                        "tweet_user": "@ilterate958",
+                        "tweet_url": "https://twitter.com/ilterate958/status/1736631911219614008",
+                        "tweet_date": "2023-12-18T06:18:00.000Z",
+                        "tweet_text": "they were enraged because he didn\u2019t allow them to pass",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 7,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1737040362206540064": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1737040362206540064",
+                        "tweet_user": "@tanojv",
+                        "tweet_url": "https://twitter.com/tanojv/status/1737040362206540064",
+                        "tweet_date": "2023-12-19T09:21:00.000Z",
+                        "tweet_text": "I don't find any fault with Ullas for that kind of rage by  XUV300 occupants. Hope Ullas got justice by police",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 0,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736792291640324417": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736792291640324417",
+                        "tweet_user": "@Rks_47",
+                        "tweet_url": "https://twitter.com/Rks_47/status/1736792291640324417",
+                        "tweet_date": "2023-12-18T16:55:00.000Z",
+                        "tweet_text": "Even locals are not safe.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 5,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736827357720457324": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736827357720457324",
+                        "tweet_user": "@Sputta17",
+                        "tweet_url": "https://twitter.com/Sputta17/status/1736827357720457324",
+                        "tweet_date": "2023-12-18T19:14:00.000Z",
+                        "tweet_text": "Dear followers i frequently travel between two cities Bangalore n tumkur  usually i slow down my car i avoid overtaking this kind of cars  don't indulge road rage while traveling with families",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 3,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736793063060812016": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736793063060812016",
+                        "tweet_user": "@GoliSoda10",
+                        "tweet_url": "https://twitter.com/GoliSoda10/status/1736793063060812016",
+                        "tweet_date": "2023-12-18T16:58:00.000Z",
+                        "tweet_text": "Hope you and your family is fine @ulli2251. And hope the dogs have been chained in a jail by now.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736965058050003425": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736965058050003425",
+                        "tweet_user": "@Skg6789",
+                        "tweet_url": "https://twitter.com/Skg6789/status/1736965058050003425",
+                        "tweet_date": "2023-12-19T04:21:00.000Z",
+                        "tweet_text": "Run over these assholes",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    }
+                }
+            },
+            "1736635721870647423": {
+                "tweet_status": "quoted_tweet",
+                "tweet_id": 1736635721870647423,
+                "tweet_user": "skc2000rpm",
+                "tweet_url": "https://twitter.com/skc2000rpm/status/1736635721870647423",
+                "tweet_date": "2023-12-18 06:33:15+00:00",
+                "tweet_text": "What do you think might have triggered road rage here?\nNot giving way?\n@3rdEyeDude @SafetyOverSpeed",
+                "tweet_lang": "en",
+                "tweet_popularity": {
+                    "viewCount": 4478,
+                    "likeCount": 17,
+                    "replyCount": 12,
+                    "retweetCount": 2,
+                    "quoteCount": 0
+                },
+                "tweet_location": {
+                    "place": null,
+                    "coordinates": null
+                },
+                "tweet_media_urls": [],
+                "quoted_tweet_id": 1736490702908101110,
+                "replied_by": {
+                    "1736941132427538643": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736941132427538643",
+                        "tweet_user": "@SafetyOverSpeed",
+                        "tweet_url": "https://twitter.com/SafetyOverSpeed/status/1736941132427538643",
+                        "tweet_date": "2023-12-19T02:46:00.000Z",
+                        "tweet_text": "@RSGuy_India how to handle such situations?",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 3,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736636815015280672": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736636815015280672",
+                        "tweet_user": "@CHIP_Maadonu",
+                        "tweet_url": "https://twitter.com/CHIP_Maadonu/status/1736636815015280672",
+                        "tweet_date": "2023-12-18T06:37:00.000Z",
+                        "tweet_text": "Yup\nLooks like they got enraged because he honked and did not give way.\n\nNot sure if the dash cam guy did some gesture, which can also trigger people like them!\n\nEven if he made any gesture this is just plain wrong and attackers should be punished!!!",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 5,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736638874494071093": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736638874494071093",
+                        "tweet_user": "@3rdEyeDude",
+                        "tweet_url": "https://twitter.com/3rdEyeDude/status/1736638874494071093",
+                        "tweet_date": "2023-12-18T06:45:00.000Z",
+                        "tweet_text": "1. Excessive honking \n2. Not giving way (maybe)\n3. Encouraging them to pull over and 'talk' as a challenge",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 3,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736672059533791303": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736672059533791303",
+                        "tweet_user": "@Hardik_Oza",
+                        "tweet_url": "https://twitter.com/Hardik_Oza/status/1736672059533791303",
+                        "tweet_date": "2023-12-18T08:57:00.000Z",
+                        "tweet_text": "They asked side when pinned behind truck, ongoing traffic didn't let him pass.. from 0:15 to 0:22 second..",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 2,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1737111009704464394": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1737111009704464394",
+                        "tweet_user": "@IamRohitGupta2",
+                        "tweet_url": "https://twitter.com/IamRohitGupta2/status/1737111009704464394",
+                        "tweet_date": "2023-12-19T14:01:00.000Z",
+                        "tweet_text": "The give & take happened in the first 20 seconds of the clip. The dashcam car is the first offender - overtakes truck by sliding right without any indicator, presumably cutting the white SUV coming behind. Situation agravated due to ego of dashcam car driver showing no remorse.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736755585939542180": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736755585939542180",
+                        "tweet_user": "@Kalki_theTenth",
+                        "tweet_url": "https://twitter.com/Kalki_theTenth/status/1736755585939542180",
+                        "tweet_date": "2023-12-18T14:29:00.000Z",
+                        "tweet_text": "IMO, the Mahindra driver is at fault here. Just using the indicator doesn't mean that all others should stop and give him way. He was trying to force in front of the dash cam car when there wasn't enough space. He should've waited instead.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 6,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736714602032054425": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736714602032054425",
+                        "tweet_user": "@SafetyOverSpeed",
+                        "tweet_url": "https://twitter.com/SafetyOverSpeed/status/1736714602032054425",
+                        "tweet_date": "2023-12-18T11:46:00.000Z",
+                        "tweet_text": "What was the discussion that happened.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 0,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736728702971793572": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736728702971793572",
+                        "tweet_user": "@imKBengaluru",
+                        "tweet_url": "https://twitter.com/imKBengaluru/status/1736728702971793572",
+                        "tweet_date": "2023-12-18T12:42:00.000Z",
+                        "tweet_text": "It's obvious that the driver of the dashcam car was following the lane discipline and horned the driver using the indicator & suddenly changing lanes for which the road rage started & EGO.\n@blrcitytraffic have to take strict action against the violator.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 0,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736794296140050933": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736794296140050933",
+                        "tweet_user": "@abhinav1927",
+                        "tweet_url": "https://twitter.com/abhinav1927/status/1736794296140050933",
+                        "tweet_date": "2023-12-18T17:03:00.000Z",
+                        "tweet_text": "Arrogance & Patience.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736752541344686475": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736752541344686475",
+                        "tweet_user": "@skr77s",
+                        "tweet_url": "https://twitter.com/skr77s/status/1736752541344686475",
+                        "tweet_date": "2023-12-18T14:17:00.000Z",
+                        "tweet_text": "Yes. Looks to me that the dash cam car was the initiator of this Road rage. He was on the left lane, overtaking the truck from right, sneaking between etios & the other car, &  could see light flashing behind etios.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 1,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1737052755833835967": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1737052755833835967",
+                        "tweet_user": "@sancharijesh",
+                        "tweet_url": "https://twitter.com/sancharijesh/status/1737052755833835967",
+                        "tweet_date": "2023-12-19T10:10:00.000Z",
+                        "tweet_text": "1. The car with the camera cut the lane of xuv while overtaking the truck.\n2. looks like XUV wanted to return the favour but failed.\n3. Both of them are not good drivers who played with their and other's lives on the road.\nroad rage is worse",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 0,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    },
+                    "1736727900060324247": {
+                        "tweet_status": "reply_to_main_tweet",
+                        "tweet_id": "1736727900060324247",
+                        "tweet_user": "@imKBengaluru",
+                        "tweet_url": "https://twitter.com/imKBengaluru/status/1736727900060324247",
+                        "tweet_date": "2023-12-18T12:39:00.000Z",
+                        "tweet_text": "On most occasions, not following lane discipline will avoid road rages. Same in this case, one stupid driver using only the indicator assumes that he owns the road and abuses another driver, who lost his cool in the meanwhile.",
+                        "tweet_lang": null,
+                        "tweet_popularity": {
+                            "likeCount": 1,
+                            "replyCount": 0,
+                            "retweetCount": 0,
+                            "quoteCount": 0
+                        }
+                    }
+                }
+            }
+        },
+        "replied_by": {
+            "1736639422098227379": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736639422098227379",
+                "tweet_user": "@bngdistpol",
+                "tweet_url": "https://twitter.com/bngdistpol/status/1736639422098227379",
+                "tweet_date": "2023-12-18T06:47:00.000Z",
+                "tweet_text": "@nmltrafficbng look into this",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 72,
+                    "replyCount": 2,
+                    "retweetCount": 2,
+                    "quoteCount": 0
+                }
+            },
+            "1736723689989906852": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736723689989906852",
+                "tweet_user": "@ulli2251",
+                "tweet_url": "https://twitter.com/ulli2251/status/1736723689989906852",
+                "tweet_date": "2023-12-18T12:22:00.000Z",
+                "tweet_text": "I thank @dobbaspet Inspector and team for the swift action in nabbing them in matter of hours and helping in resolving the matter . @bngdistpol @nmltrafficbng @Jointcptraffic @blrcitytraffic",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 105,
+                    "replyCount": 1,
+                    "retweetCount": 10,
+                    "quoteCount": 0
+                }
+            },
+            "1736664396867453340": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736664396867453340",
+                "tweet_user": "@ulli2251",
+                "tweet_url": "https://twitter.com/ulli2251/status/1736664396867453340",
+                "tweet_date": "2023-12-18T08:27:00.000Z",
+                "tweet_text": "Two culprits nabbed..two more still on run",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 227,
+                    "replyCount": 4,
+                    "retweetCount": 10,
+                    "quoteCount": 2
+                }
+            },
+            "1736655267935515064": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736655267935515064",
+                "tweet_user": "@apdeshpand",
+                "tweet_url": "https://twitter.com/apdeshpand/status/1736655267935515064",
+                "tweet_date": "2023-12-18T07:50:00.000Z",
+                "tweet_text": "This is such a horrific ordeal that will be forever etched in the mind. Hope the police take swift action against the culprits and bring them to justice. \ud83d\ude28",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 22,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736692651825709400": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736692651825709400",
+                "tweet_user": "@ashish_904",
+                "tweet_url": "https://twitter.com/ashish_904/status/1736692651825709400",
+                "tweet_date": "2023-12-18T10:19:00.000Z",
+                "tweet_text": "Always Have a AIRGUN & Dashcam in Car",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 3,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736719780672098659": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736719780672098659",
+                "tweet_user": "@FRanklyDharmic",
+                "tweet_url": "https://twitter.com/FRanklyDharmic/status/1736719780672098659",
+                "tweet_date": "2023-12-18T12:07:00.000Z",
+                "tweet_text": "\u0c95\u0cbe\u0c82\u0c97\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd \u0cb8\u0cb0\u0ccd\u0c95\u0cbe\u0cb0 \u0c97\u0cc2\u0c82\u0ca1\u0cbe\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0ca8\u0ca1\u0cc6\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca6\u0cc6. \u0c86\u0ca6\u0ccd\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0c87\u0ca6\u0cc1 \u0cb8\u0cbe\u0cae\u0cbe\u0ca8\u0ccd\u0caf\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6\n\n#CongressMuktBharat",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 5,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736626605475426625": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736626605475426625",
+                "tweet_user": "@balramshinde",
+                "tweet_url": "https://twitter.com/balramshinde/status/1736626605475426625",
+                "tweet_date": "2023-12-18T05:57:00.000Z",
+                "tweet_text": "Strict punishment required to prevent such incidents..Goons not allowed to roam free in a civilized nation",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 11,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736660659646124051": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736660659646124051",
+                "tweet_user": "@ChambalTown",
+                "tweet_url": "https://twitter.com/ChambalTown/status/1736660659646124051",
+                "tweet_date": "2023-12-18T08:12:00.000Z",
+                "tweet_text": "These incidents used to common in North but now even south is facing the same. Not sure which part of the country is untouched with these arrogant violent goons.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736646026084409708": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736646026084409708",
+                "tweet_user": "@adeesh_viralam",
+                "tweet_url": "https://twitter.com/adeesh_viralam/status/1736646026084409708",
+                "tweet_date": "2023-12-18T07:14:00.000Z",
+                "tweet_text": "Do not spare these idiots. They think they own the roads. It will be such a shame if the department fails to take action on these rogues.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 3,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736644260370522448": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736644260370522448",
+                "tweet_user": "@s_anurshetru",
+                "tweet_url": "https://twitter.com/s_anurshetru/status/1736644260370522448",
+                "tweet_date": "2023-12-18T07:07:00.000Z",
+                "tweet_text": "Anna did he got arrested",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736622747017707863": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736622747017707863",
+                "tweet_user": "@chitasethy",
+                "tweet_url": "https://twitter.com/chitasethy/status/1736622747017707863",
+                "tweet_date": "2023-12-18T05:41:00.000Z",
+                "tweet_text": "Why didn't you let him overtake you?  You should understand lane discipline.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 8,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736648920636477829": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736648920636477829",
+                "tweet_user": "@SumantRaju143",
+                "tweet_url": "https://twitter.com/SumantRaju143/status/1736648920636477829",
+                "tweet_date": "2023-12-18T07:25:00.000Z",
+                "tweet_text": "I hope these people get arrested..",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 3,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736638045452194158": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736638045452194158",
+                "tweet_user": "@akhil9107",
+                "tweet_url": "https://twitter.com/akhil9107/status/1736638045452194158",
+                "tweet_date": "2023-12-18T06:42:00.000Z",
+                "tweet_text": "@CPBlr sir",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736715281484173449": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736715281484173449",
+                "tweet_user": "@gaddigesh",
+                "tweet_url": "https://twitter.com/gaddigesh/status/1736715281484173449",
+                "tweet_date": "2023-12-18T11:49:00.000Z",
+                "tweet_text": "I was on the same road yesterday, it was crazy traffic. People were impatient and driving Rash \ud83e\udd26\ud83c\udffb.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736654543717556710": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736654543717556710",
+                "tweet_user": "@iamSKC10",
+                "tweet_url": "https://twitter.com/iamSKC10/status/1736654543717556710",
+                "tweet_date": "2023-12-18T07:48:00.000Z",
+                "tweet_text": "The bloody snowflake got offended for not allowing him to squeeze in between you and the etios I believe. If only these dumbf%$s knew how to drive.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 3,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736642167907778620": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736642167907778620",
+                "tweet_user": "@AKaseTwee",
+                "tweet_url": "https://twitter.com/AKaseTwee/status/1736642167907778620",
+                "tweet_date": "2023-12-18T06:58:00.000Z",
+                "tweet_text": "Hope he is arrested.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736675518320427187": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736675518320427187",
+                "tweet_user": "@naik2387",
+                "tweet_url": "https://twitter.com/naik2387/status/1736675518320427187",
+                "tweet_date": "2023-12-18T09:11:00.000Z",
+                "tweet_text": "Road Rage is very common now a days. Culprits get away with this easily. Serious action should be taken to set an example",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 5,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736656421268382046": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736656421268382046",
+                "tweet_user": "@marginalideas",
+                "tweet_url": "https://twitter.com/marginalideas/status/1736656421268382046",
+                "tweet_date": "2023-12-18T07:55:00.000Z",
+                "tweet_text": "Have they been arrested? @BlrCityPolice \n\nthis is a very serious issue, need support to nab down the miscreants.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 6,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736681240152228236": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736681240152228236",
+                "tweet_user": "@2023Realdeal619",
+                "tweet_url": "https://twitter.com/2023Realdeal619/status/1736681240152228236",
+                "tweet_date": "2023-12-18T09:34:00.000Z",
+                "tweet_text": "I have a question for the police. - When a person, travelling with his family, is threatened and intimidated on the road by such rogue elements,  what if he decides to fight back to defend his family. Will the law support him ? These are not isolated incidents",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 32,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736684177666539639": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736684177666539639",
+                "tweet_user": "@Sigma_male_149",
+                "tweet_url": "https://twitter.com/Sigma_male_149/status/1736684177666539639",
+                "tweet_date": "2023-12-18T09:45:00.000Z",
+                "tweet_text": "Don't tell me it's Karnataka Bengaluru please",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736722281857208602": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736722281857208602",
+                "tweet_user": "@ArpitLala786",
+                "tweet_url": "https://twitter.com/ArpitLala786/status/1736722281857208602",
+                "tweet_date": "2023-12-18T12:17:00.000Z",
+                "tweet_text": "Hoping to see all these accused inside the jail. can you pls tell me which dash cam have u used in the video quality is very clear.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736644162634809589": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736644162634809589",
+                "tweet_user": "@VR46RX100",
+                "tweet_url": "https://twitter.com/VR46RX100/status/1736644162634809589",
+                "tweet_date": "2023-12-18T07:06:00.000Z",
+                "tweet_text": "Ullas bro please update the status if any action has been taken",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 22,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736621559190781990": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736621559190781990",
+                "tweet_user": "@GodofThorr",
+                "tweet_url": "https://twitter.com/GodofThorr/status/1736621559190781990",
+                "tweet_date": "2023-12-18T05:36:00.000Z",
+                "tweet_text": "After congress came to power the KA seems to be next Punjab.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 42,
+                    "replyCount": 3,
+                    "retweetCount": 3,
+                    "quoteCount": 2
+                }
+            },
+            "1736647228033519745": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736647228033519745",
+                "tweet_user": "@sancharijesh",
+                "tweet_url": "https://twitter.com/sancharijesh/status/1736647228033519745",
+                "tweet_date": "2023-12-18T07:18:00.000Z",
+                "tweet_text": "I hope the culprits will be caught.\nI usually avoid the Tumkur road for the same reason. And usually some wiring problem with the XUV 300 drivers. I avoid them on any road.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 17,
+                    "replyCount": 0,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1736680313663947076": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736680313663947076",
+                "tweet_user": "@2023Realdeal619",
+                "tweet_url": "https://twitter.com/2023Realdeal619/status/1736680313663947076",
+                "tweet_date": "2023-12-18T09:30:00.000Z",
+                "tweet_text": "I hope ur family is safe. Lets see how police tackle this. They always go easy on these rouge elements.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736649769936961847": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736649769936961847",
+                "tweet_user": "@mosathya",
+                "tweet_url": "https://twitter.com/mosathya/status/1736649769936961847",
+                "tweet_date": "2023-12-18T07:29:00.000Z",
+                "tweet_text": "Please get case registered, even if these culprits have connections.\nPlease send updates on this case and keep the recording memory card safe.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 9,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736646016504656330": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736646016504656330",
+                "tweet_user": "@mankuthimma_",
+                "tweet_url": "https://twitter.com/mankuthimma_/status/1736646016504656330",
+                "tweet_date": "2023-12-18T07:14:00.000Z",
+                "tweet_text": "If they\u2019re drunk it\u2019s better to have driven them straight to police station.. goons try to over take left right and centre without lane discipline and shout amma/akka on top of their voice",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736634528041468327": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736634528041468327",
+                "tweet_user": "@SanataniS_",
+                "tweet_url": "https://twitter.com/SanataniS_/status/1736634528041468327",
+                "tweet_date": "2023-12-18T06:28:00.000Z",
+                "tweet_text": "@PriyankKharge street justice or Law and order? The govt should come down heavily on these goons.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 3,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736670278258724914": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736670278258724914",
+                "tweet_user": "@Mukunda92605051",
+                "tweet_url": "https://twitter.com/Mukunda92605051/status/1736670278258724914",
+                "tweet_date": "2023-12-18T08:50:00.000Z",
+                "tweet_text": "@DgpKarnataka Dear Sir, if we allow such miscreants to go roam free then we are heading towards degeneration as a State.\nTime to show the power of the law to these cowards. \nMake an example out of these guys such that people think 100 times before attempting something like this!",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736696784221839486": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736696784221839486",
+                "tweet_user": "@ku37943288",
+                "tweet_url": "https://twitter.com/ku37943288/status/1736696784221839486",
+                "tweet_date": "2023-12-18T10:35:00.000Z",
+                "tweet_text": "Please take licence gun and in such case fire on their thighs",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            }
+        }
+    },
+    "1732625023331090773": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1732625023331090773,
+        "tweet_user": "BoskyKhanna",
+        "tweet_url": "https://twitter.com/BoskyKhanna/status/1732625023331090773",
+        "tweet_date": "2023-12-07 04:56:10+00:00",
+        "tweet_text": "Construction materials, sand being dumped into Hennagara Lake, villa project under construction. Despite complaints @BBMPCOMM, @karnatakakspcb take no action. Will @DKShivakumar @eshwar_khandre stop this?\n@NewIndianXpress\n@XpressBengaluru @KannadaPrabha @santwana99 @Cloudnirad https://t.co/HSP04zEGf4",
+        "tweet_lang": "en",
+        "tweet_popularity": {
+            "viewCount": 119048,
+            "likeCount": 934,
+            "replyCount": 138,
+            "retweetCount": 604,
+            "quoteCount": 78
+        },
+        "tweet_location": {
+            "place": null,
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1732624986219683840/pu/vid/avc1/384x864/O-fIfxRjtj1FIH0r.mp4?tag=12"
+        ],
+        "quoted_by": {},
+        "replied_by": {
+            "1732739847906087040": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732739847906087040",
+                "tweet_user": "@sudhakar10",
+                "tweet_url": "https://twitter.com/sudhakar10/status/1732739847906087040",
+                "tweet_date": "2023-12-07T12:32:00.000Z",
+                "tweet_text": "Who is the MLA of this constituency? How is it possible that this broad daylight encroachment is happening at the lake and he is not aware?\n\nWhy is @BBMPCOMM chief not ever penalized for dereliction of duty and messing up the city while they harass innocent citizens when they want?!\n\ntwitter.com/BoskyKhanna/stat\u2026",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 32,
+                    "replyCount": 4,
+                    "retweetCount": 9,
+                    "quoteCount": 0
+                }
+            },
+            "1732955511241519313": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732955511241519313",
+                "tweet_user": "@BlrCityPolice",
+                "tweet_url": "https://twitter.com/BlrCityPolice/status/1732955511241519313",
+                "tweet_date": "2023-12-08T02:49:00.000Z",
+                "tweet_text": "@bngdistpol @JiganiPS",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 1,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1732782489813618902": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732782489813618902",
+                "tweet_user": "@adarshdevaraj",
+                "tweet_url": "https://twitter.com/adarshdevaraj/status/1732782489813618902",
+                "tweet_date": "2023-12-07T15:21:00.000Z",
+                "tweet_text": "Now let's not blame the previous BJP government for this, we need to stop this encroachment ASAP.\n\n@RahulGandhi @priyankagandhi @Pawankhera @siddaramaiah @DKShivakumar @AMalligavad @UNEP",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 7,
+                    "replyCount": 0,
+                    "retweetCount": 3,
+                    "quoteCount": 0
+                }
+            },
+            "1732843819035730161": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732843819035730161",
+                "tweet_user": "@BetterBengaluro",
+                "tweet_url": "https://twitter.com/BetterBengaluro/status/1732843819035730161",
+                "tweet_date": "2023-12-07T19:25:00.000Z",
+                "tweet_text": "@BBMPCOMM engineers about to be rich. Definitely the higher ups get a cut too.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 1,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1732773477818507685": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732773477818507685",
+                "tweet_user": "@asad46khan46",
+                "tweet_url": "https://twitter.com/asad46khan46/status/1732773477818507685",
+                "tweet_date": "2023-12-07T14:46:00.000Z",
+                "tweet_text": "meanwhile BBMP is busy taking away jobs from street vendors and footpath drives \ud83e\udd26\ud83d\udd25\ud83e\udd26\ud83e\udd26",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1732686682972148047": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732686682972148047",
+                "tweet_user": "@NeutralOdisha",
+                "tweet_url": "https://twitter.com/NeutralOdisha/status/1732686682972148047",
+                "tweet_date": "2023-12-07T09:01:00.000Z",
+                "tweet_text": "preparing for future floods and devastation, Netad would have got heavy kickbacks,\n@Tejasvi_Surya Can u take some action?",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732695606206853545": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732695606206853545",
+                "tweet_user": "@mirajsameer096",
+                "tweet_url": "https://twitter.com/mirajsameer096/status/1732695606206853545",
+                "tweet_date": "2023-12-07T09:36:00.000Z",
+                "tweet_text": "Can't the courts take suo moto action here?",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 0,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1732631786772111608": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732631786772111608",
+                "tweet_user": "@Vishwasshettre",
+                "tweet_url": "https://twitter.com/Vishwasshettre/status/1732631786772111608",
+                "tweet_date": "2023-12-07T05:23:00.000Z",
+                "tweet_text": "Anything and everything is possible in Bengaluru at this moment \ud83d\ude10",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 3,
+                    "replyCount": 0,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1732663062644277464": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732663062644277464",
+                "tweet_user": "@motordave2",
+                "tweet_url": "https://twitter.com/motordave2/status/1732663062644277464",
+                "tweet_date": "2023-12-07T07:27:00.000Z",
+                "tweet_text": "Electronic City, Jigani under Major Constructions. More than 4k Apartments at GM followed by many more projects in the Surroundings with no Ground Water. If lakes also are being taken over for Villa - there will be no water in next 1 year.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 8,
+                    "replyCount": 1,
+                    "retweetCount": 3,
+                    "quoteCount": 0
+                }
+            },
+            "1732771345497575773": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732771345497575773",
+                "tweet_user": "@revdragon3",
+                "tweet_url": "https://twitter.com/revdragon3/status/1732771345497575773",
+                "tweet_date": "2023-12-07T14:37:00.000Z",
+                "tweet_text": "@DKShivakumar ? LOL.. check if he has some reserved space already booked for his black money apartment.. he got caught right once ..he have to amass all that again right? .nobody will take action they a got their share of payment for this to happen \ud83e\udd37",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 1,
+                    "quoteCount": 0
+                }
+            },
+            "1733061317840523281": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1733061317840523281",
+                "tweet_user": "@FRanklyDharmic",
+                "tweet_url": "https://twitter.com/FRanklyDharmic/status/1733061317840523281",
+                "tweet_date": "2023-12-08T09:49:00.000Z",
+                "tweet_text": "Does this happens without a permission from Khangress?\n\n@PriyankKharge @LavanyaBallal still you people didn\u2019t confirm the commission percent",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732658015776670029": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732658015776670029",
+                "tweet_user": "@rahulhunts",
+                "tweet_url": "https://twitter.com/rahulhunts/status/1732658015776670029",
+                "tweet_date": "2023-12-07T07:07:00.000Z",
+                "tweet_text": "Let then have their call nature  surely kows how to take things back we call natural disaster but it's a balance which nature does when we do thgs which arnt suppose to be done \nLet's wait for nature's call",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1733053669791150379": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1733053669791150379",
+                "tweet_user": "@rajurajkamal",
+                "tweet_url": "https://twitter.com/rajurajkamal/status/1733053669791150379",
+                "tweet_date": "2023-12-08T09:19:00.000Z",
+                "tweet_text": "@tv9kannada @CMofKarnataka @AamAadmiParty @BangaloreMirror",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732945278700011529": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732945278700011529",
+                "tweet_user": "@Divya_India_ask",
+                "tweet_url": "https://twitter.com/Divya_India_ask/status/1732945278700011529",
+                "tweet_date": "2023-12-08T02:08:00.000Z",
+                "tweet_text": "They would already have received their cuts",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732705839818101201": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732705839818101201",
+                "tweet_user": "@Strangerthanf15",
+                "tweet_url": "https://twitter.com/Strangerthanf15/status/1732705839818101201",
+                "tweet_date": "2023-12-07T10:17:00.000Z",
+                "tweet_text": "pay property tax \nand then after 4-5 years bbmp will send notice of illegal site \nbla bla",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732729219728478364": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732729219728478364",
+                "tweet_user": "@ninadsheth",
+                "tweet_url": "https://twitter.com/ninadsheth/status/1732729219728478364",
+                "tweet_date": "2023-12-07T11:50:00.000Z",
+                "tweet_text": "No he won't stop it he 8s taken care of.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732716673323643264": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732716673323643264",
+                "tweet_user": "@Joe_Dsza",
+                "tweet_url": "https://twitter.com/Joe_Dsza/status/1732716673323643264",
+                "tweet_date": "2023-12-07T11:00:00.000Z",
+                "tweet_text": "This area MLA must be a real coward.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1733390524219044118": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1733390524219044118",
+                "tweet_user": "@venkatesha_786",
+                "tweet_url": "https://twitter.com/venkatesha_786/status/1733390524219044118",
+                "tweet_date": "2023-12-09T07:38:00.000Z",
+                "tweet_text": "Congratulations on Congress govt",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732645258515943858": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732645258515943858",
+                "tweet_user": "@UrzNischith",
+                "tweet_url": "https://twitter.com/UrzNischith/status/1732645258515943858",
+                "tweet_date": "2023-12-07T06:16:00.000Z",
+                "tweet_text": "All of them are aligned to pollute the lake.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1733022616833958375": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1733022616833958375",
+                "tweet_user": "@shiv_rajd",
+                "tweet_url": "https://twitter.com/shiv_rajd/status/1733022616833958375",
+                "tweet_date": "2023-12-08T07:16:00.000Z",
+                "tweet_text": "The funny part is... The video is being recorded from a flat where the apartment is built on a lake filled with mud!!",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732688381673693189": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732688381673693189",
+                "tweet_user": "@VINAY_CD",
+                "tweet_url": "https://twitter.com/VINAY_CD/status/1732688381673693189",
+                "tweet_date": "2023-12-07T09:07:00.000Z",
+                "tweet_text": "@krishnabgowda",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732765736907530301": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732765736907530301",
+                "tweet_user": "@VINAY_CD",
+                "tweet_url": "https://twitter.com/VINAY_CD/status/1732765736907530301",
+                "tweet_date": "2023-12-07T14:15:00.000Z",
+                "tweet_text": "@publictvnews @tv9kannada @AsianetNewsSN",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732672682716807341": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732672682716807341",
+                "tweet_user": "@RKarki13923435",
+                "tweet_url": "https://twitter.com/RKarki13923435/status/1732672682716807341",
+                "tweet_date": "2023-12-07T08:05:00.000Z",
+                "tweet_text": "Preparation to usurp land ??",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1733117314675982679": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1733117314675982679",
+                "tweet_user": "@just_aby",
+                "tweet_url": "https://twitter.com/just_aby/status/1733117314675982679",
+                "tweet_date": "2023-12-08T13:32:00.000Z",
+                "tweet_text": "This is not a case of dumping waste but systematic plan to vanish the lake from map of Bangalore.\nNothing new, no one stopped them before and nothing's gonna stop them now or later.\nEverybody got their hands dirty in this systematic disappearance",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732806069993545884": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732806069993545884",
+                "tweet_user": "@ayyavu",
+                "tweet_url": "https://twitter.com/ayyavu/status/1732806069993545884",
+                "tweet_date": "2023-12-07T16:55:00.000Z",
+                "tweet_text": "Wakeup Bengaluru",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732808258342297936": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732808258342297936",
+                "tweet_user": "@satishtical",
+                "tweet_url": "https://twitter.com/satishtical/status/1732808258342297936",
+                "tweet_date": "2023-12-07T17:04:00.000Z",
+                "tweet_text": "No wonder humans are preparing to go to Mars!!!\nYou all holding high official positions can live here.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732750551933464990": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732750551933464990",
+                "tweet_user": "@ragways",
+                "tweet_url": "https://twitter.com/ragways/status/1732750551933464990",
+                "tweet_date": "2023-12-07T13:14:00.000Z",
+                "tweet_text": "This cant be done. This is DOWNRIGHT ILLEGAL.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732682807384912198": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732682807384912198",
+                "tweet_user": "@narayan_yadav7",
+                "tweet_url": "https://twitter.com/narayan_yadav7/status/1732682807384912198",
+                "tweet_date": "2023-12-07T08:45:00.000Z",
+                "tweet_text": "Illegal kaam nai hoga toh neta logo ka ghar kaise chalega....",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732844821294030874": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732844821294030874",
+                "tweet_user": "@Tweet_Amogha",
+                "tweet_url": "https://twitter.com/Tweet_Amogha/status/1732844821294030874",
+                "tweet_date": "2023-12-07T19:29:00.000Z",
+                "tweet_text": "@DeccanHerald  @the_hindu @NammaBengaluroo @WFRising @srinualavilli \n\nPlease do something about this!!",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1732845353970639274": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1732845353970639274",
+                "tweet_user": "@Tweet_Amogha",
+                "tweet_url": "https://twitter.com/Tweet_Amogha/status/1732845353970639274",
+                "tweet_date": "2023-12-07T19:31:00.000Z",
+                "tweet_text": "@east_bengaluru @unitedbengaluru @citizensforblr \n\nPlease note. Please do something about this.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            }
+        }
+    },
+    "1688750811583746048": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1688750811583746048,
+        "tweet_user": "ulli2251",
+        "tweet_url": "https://twitter.com/ulli2251/status/1688750811583746048",
+        "tweet_date": "2023-08-08 03:15:43+00:00",
+        "tweet_text": "Is this even legal to stand out from the Sunroof. They are risking a small kids life by doing so. @alokkumar6994 @btppubliceye @blrcitytraffic \n\nLocation - Koli Farm Gate Junction, Bannerghatta Road\nDate - 07-08-2023\nTime - 12.38PM\nRegistration - KA05NH2016 https://t.co/1jmXUOnHYW",
+        "tweet_lang": "en",
+        "tweet_popularity": {
+            "viewCount": 1363,
+            "likeCount": 5,
+            "replyCount": 0,
+            "retweetCount": 1,
+            "quoteCount": 0
+        },
+        "tweet_location": {
+            "place": null,
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1688750736002473984/pu/vid/1280x720/mk3-iNPP9EgkGbR3.mp4?tag=12"
+        ],
+        "quoted_by": {},
+        "replied_by": {}
+    },
+    "1684882976780464128": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1684882976780464128,
+        "tweet_user": "ulli2251",
+        "tweet_url": "https://twitter.com/ulli2251/status/1684882976780464128",
+        "tweet_date": "2023-07-28 11:06:19+00:00",
+        "tweet_text": "@btppubliceye @blrcitytraffic @vijayanagartrps @alokkumar6994 Unauthorized use of Siren in a private vehicle and disturbing peaceful vehicle movement on Outer Ring Road(Nayandahalli Junction) \nVehicle - Toyota Fortuner (WHITE) KA01MN7758\nPlease take necessary action https://t.co/TIJJ4NjroJ",
+        "tweet_lang": "en",
+        "tweet_popularity": {
+            "viewCount": 1831,
+            "likeCount": 2,
+            "replyCount": 7,
+            "retweetCount": 0,
+            "quoteCount": 0
+        },
+        "tweet_location": {
+            "place": {
+                "id": "335ea300bcde5d91",
+                "fullName": "Nayanda Halli, Bengaluru",
+                "name": "Nayanda Halli",
+                "type": "neighborhood",
+                "country": "India",
+                "countryCode": "IN"
+            },
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1684882771276361730/pu/vid/1280x720/8kqLjNA6pCKSrMOQ.mp4?tag=12",
+            "https://video.twimg.com/ext_tw_video/1684882862150193153/pu/vid/1280x720/egJ-35-b6I5mwoKP.mp4?tag=12"
+        ],
+        "quoted_by": {},
+        "replied_by": {
+            "1684910418781970432": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1684910418781970432",
+                "tweet_user": "@bypuratraffic",
+                "tweet_url": "https://twitter.com/bypuratraffic/status/1684910418781970432",
+                "tweet_date": "2023-07-28T12:55:00.000Z",
+                "tweet_text": "We have acknowledged this message",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 2,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1684910565637099520": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1684910565637099520",
+                "tweet_user": "@bypuratraffic",
+                "tweet_url": "https://twitter.com/bypuratraffic/status/1684910565637099520",
+                "tweet_date": "2023-07-28T12:55:00.000Z",
+                "tweet_text": "Send correct live location",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1684913124673990656": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1684913124673990656",
+                "tweet_user": "@bypuratraffic",
+                "tweet_url": "https://twitter.com/bypuratraffic/status/1684913124673990656",
+                "tweet_date": "2023-07-28T13:06:00.000Z",
+                "tweet_text": "We have acknowledged this message\n\nSend correct live location\n\nIt is not Nayandahalli junction",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1684937241247039488": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1684937241247039488",
+                "tweet_user": "@bypuratraffic",
+                "tweet_url": "https://twitter.com/bypuratraffic/status/1684937241247039488",
+                "tweet_date": "2023-07-28T14:41:00.000Z",
+                "tweet_text": "All the stations have been informed by the control room to impound this vehicle if found anywhere",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 2,
+                    "replyCount": 2,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1736624039798485465": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1736624039798485465",
+                "tweet_user": "@PradeepCM238855",
+                "tweet_url": "https://twitter.com/PradeepCM238855/status/1736624039798485465",
+                "tweet_date": "2023-12-18T05:46:00.000Z",
+                "tweet_text": "Pls share ur number sir",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            }
+        }
+    },
+    "1669249027509198848": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1669249027509198848,
+        "tweet_user": "ulli2251",
+        "tweet_url": "https://twitter.com/ulli2251/status/1669249027509198848",
+        "tweet_date": "2023-06-15 07:42:35+00:00",
+        "tweet_text": "@btppubliceye @blrcitytraffic \n15/06/2023\nTime - 10.45am\nLocation - NICE Road(Link Road entrance) \n\nPlease take action as this is becoming very frequent on NICE Road. https://t.co/CbI22tpYBI",
+        "tweet_lang": "en",
+        "tweet_popularity": {
+            "viewCount": 941,
+            "likeCount": 3,
+            "replyCount": 1,
+            "retweetCount": 0,
+            "quoteCount": 0
+        },
+        "tweet_location": {
+            "place": {
+                "id": "123ad1f35e190c93",
+                "fullName": "Anekal Bangaluru, India",
+                "name": "Anekal Bangaluru",
+                "type": "city",
+                "country": "India",
+                "countryCode": "IN"
+            },
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1669248958500315137/pu/vid/1280x720/9JzfLEL8PNPZfle0.mp4?tag=12"
+        ],
+        "quoted_by": {},
+        "replied_by": {}
+    },
+    "1541114852332036096": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1541114852332036096,
+        "tweet_user": "ulli2251",
+        "tweet_url": "https://twitter.com/ulli2251/status/1541114852332036096",
+        "tweet_date": "2022-06-26 17:43:07+00:00",
+        "tweet_text": "Ride Carefully in the night please.. Incident happened in front of my office in #jigani just few minutes back.. @blrcitytraffic @BlrCityPolice @AnekalPolicest1 #accident #anekal \nLocation - Opp V2B Mart https://t.co/vVxrfNdBCs",
+        "tweet_lang": "en",
+        "tweet_popularity": {
+            "viewCount": null,
+            "likeCount": 3,
+            "replyCount": 2,
+            "retweetCount": 1,
+            "quoteCount": 0
+        },
+        "tweet_location": {
+            "place": null,
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1541114804362158080/pu/vid/1270x720/vzRXeEy5c6PwkB-T.mp4?tag=12"
+        ],
+        "quoted_by": {},
+        "replied_by": {
+            "1541115995405750272": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1541115995405750272",
+                "tweet_user": "@ulli2251",
+                "tweet_url": "https://twitter.com/ulli2251/status/1541115995405750272",
+                "tweet_date": "2022-06-26T17:47:00.000Z",
+                "tweet_text": "@bngdistpol request you to place a speedbreaker and some traffic signs in this location because we are fed up seeing accidents in this junction on daily basis. It is a very dangerous junction for pedestrians and two wheelers.",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            }
+        }
+    },
+    "1743313398455291916": {
+        "tweet_status": "main_tweet",
+        "tweet_id": 1743313398455291916,
+        "tweet_user": "accidentes_1",
+        "tweet_url": "https://twitter.com/accidentes_1/status/1743313398455291916",
+        "tweet_date": "2024-01-05 16:47:58+00:00",
+        "tweet_text": "https://t.co/YafBAs89I5",
+        "tweet_lang": "zxx",
+        "tweet_popularity": {
+            "viewCount": 4187,
+            "likeCount": 103,
+            "replyCount": 2,
+            "retweetCount": 3,
+            "quoteCount": 0
+        },
+        "tweet_location": {
+            "place": null,
+            "coordinates": null
+        },
+        "tweet_media_urls": [
+            "https://video.twimg.com/ext_tw_video/1743313361553764352/pu/vid/avc1/720x1280/ylQEjk7aibzHGJk5.mp4?tag=12"
+        ],
+        "quoted_by": {},
+        "replied_by": {
+            "1743364345424138380": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1743364345424138380",
+                "tweet_user": "@elteddy2697",
+                "tweet_url": "https://twitter.com/elteddy2697/status/1743364345424138380",
+                "tweet_date": "2024-01-05T20:10:00.000Z",
+                "tweet_text": "did they survive?",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1743351510606508379": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1743351510606508379",
+                "tweet_user": "@Vahdet52280",
+                "tweet_url": "https://twitter.com/Vahdet52280/status/1743351510606508379",
+                "tweet_date": "2024-01-05T19:19:00.000Z",
+                "tweet_text": "f\u00fcze vurdu",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1743318991274442944": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1743318991274442944",
+                "tweet_user": "@Every_Niche",
+                "tweet_url": "https://twitter.com/Every_Niche/status/1743318991274442944",
+                "tweet_date": "2024-01-05T17:10:00.000Z",
+                "tweet_text": "Thirsty but Clever crow \ud83d\udc26\u200d\u2b1b\ud83d\ude02\nFollow for more interesting videos \ud83d\udcf8",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1745918217141338352": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1745918217141338352",
+                "tweet_user": "@IsaacZB4",
+                "tweet_url": "https://twitter.com/IsaacZB4/status/1745918217141338352",
+                "tweet_date": "2024-01-12T21:18:00.000Z",
+                "tweet_text": "Bro wtf",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1743455587776504036": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1743455587776504036",
+                "tweet_user": "@JaxsonRiely",
+                "tweet_url": "https://twitter.com/JaxsonRiely/status/1743455587776504036",
+                "tweet_date": "2024-01-06T02:12:00.000Z",
+                "tweet_text": "Goofy gta fail",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            },
+            "1743313795940835718": {
+                "tweet_status": "reply_to_main_tweet",
+                "tweet_id": "1743313795940835718",
+                "tweet_user": "@larrythecowvid",
+                "tweet_url": "https://twitter.com/larrythecowvid/status/1743313795940835718",
+                "tweet_date": "2024-01-05T16:49:00.000Z",
+                "tweet_text": "new tesla",
+                "tweet_lang": null,
+                "tweet_popularity": {
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "quoteCount": 0
+                }
+            }
+        }
+    }}

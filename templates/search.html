@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../static/index.css">
+    <title>Keyword Search in Tweets</title>
+</head>
+<!-- <h1>TweetSearch<img src="../data/twittericon.png" alt="Icon" class="icon"></h1> -->
+
+<body>
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">TweetSearch<img src="../static/twittericon.png" alt="Icon" class="icon"></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link active" aria-current="page" href="D:/CVIT_TweetsData/TweetSearch/templates/templates/index.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="#">Tags</a>
+          <a class="nav-link active" href="#">Filters</a>
+          <!-- <a class="nav-link disabled" aria-disabled="true">Disabled</a> -->
+        </div>
+        <div class="search-container">
+              <form id="search-form" action="/search" method="get">
+                  <input id="Keyword"type="text" placeholder="Search.." name="Keyword">
+                  <button type="submit"><i class="fas fa-search"></i></button>
+              </form>          
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+  <div id="Filters">
+    <h5>Traffic Events</h5>
+    <form id="Traffic Events" >
+      <input type="checkbox" id="Accident" name="Accident" value="Accident">
+      <label for="Accident"> Accident</label><br>
+      <input type="checkbox" id="Dangerous" name="Dangerous" value="Dangerous">
+      <label for="Dangerous"> Dangerous/Critical</label><br>
+      <input type="checkbox" id="Safe Driving" name="Safe Driving" value="Safe Driving">
+      <label for="Safe Driving">Safe Driving</label><br>
+      <input type="checkbox" id="Road Rage" name="Road Rage" value="Road Rage">
+      <label for="Road Rage">Road Rage</label><br><br>
+    </form>
+    <h5>Traffic Violations</h5>
+    <form id="Traffic Violations" >
+      <input type="checkbox" id="IllegalLane" name="IllegalLane" value="IllegalLane">
+      <label for="IllegalLane"> Illegal Lane Change</label><br>
+      <input type="checkbox" id="Nohelmet" name="Nohelmet" value="Nohelmet">
+      <label for="Nohelmet"> No Helmet</label><br>
+      <input type="checkbox" id="Tripleride" name="Tripleride" value="Tripleride">
+      <label for="Tripleride">Triple Riding</label><br>
+      <input type="checkbox" id="RedLight" name="RedLight" value="RedLight">
+      <label for="RedLight">Red Light Violation</label><br><br>
+    </form>
+    <h5>Road Scenarios</h5>
+    <form id="Road Scenarios" >
+      <input type="checkbox" id="Urban" name="Urban" value="Urban">
+      <label for="Urban">Urban</label><br>
+      <input type="checkbox" id="Highway" name="Highway" value="Highway">
+      <label for="Highway">Highway</label><br>
+      <input type="checkbox" id="Rural" name="Rural" value="Rural">
+      <label for="Rural">Rural</label><br>
+      <input type="checkbox" id="Tunnel" name="Tunnel" value="Tunnel">
+      <label for="Tunnel">Tunnel</label><br>
+      <input type="checkbox" id="Mountain" name="Mountain" value="Mountain">
+      <label for="Mountain">Mountain</label><br><br>
+    </form>
+    <h5>Traffic Density</h5>
+    <form id="Traffic Density">
+      <input type="checkbox" id="Medium" name="Medium" value="Medium">
+      <label for="Medium">Medium</label><br>
+      <input type="checkbox" id="Congested" name="Congested" value="Congested">
+      <label for="Congested">Highway</label><br>
+      <input type="checkbox" id="Sparse" name="Sparse" value="Sparse">
+      <label for="Sparse">Sparse</label><br><br>
+    </form>
+    <h5>Types of Roads</h5>
+    <form id="Types of Roads">
+      <input type="checkbox" id="TJucn" name="TJucn" value="TJucn">
+      <label for="TJucn">T-Junction</label><br>
+      <input type="checkbox" id="Roundabout" name="Roundabout" value="Roundabout">
+      <label for="Roundabout">Roundabout</label><br>
+      <input type="checkbox" id="4way" name="4way" value="4way">
+      <label for="4way">4 Way Intersection</label><br><br>
+    </form>
+    <h5>Weather</h5>
+    <form id="Weather">
+      <input type="checkbox" id="Rainy" name="Rainy" value="Rainy">
+      <label for="Rainy">Rainy</label><br>
+      <input type="checkbox" id="Sunny" name="Sunny" value="Sunny">
+      <label for="Sunny">Sunny</label><br>
+      <input type="checkbox" id="Fogy" name="Fogy" value="Fogy">
+      <label for="Fogy">Fogy</label><br>
+      <input type="checkbox" id="Snowy" name="Snowy" value="Snowy">
+      <label for="Snowy">Snowy</label><br><br>
+    </form>
+    <h5>Country</h5>
+    <form id="Country">
+      <input type="checkbox" id="USA" name="USA" value="USA">
+      <label for="USA">USA</label><br>
+      <input type="checkbox" id="India" name="India" value="India">
+      <label for="India">India</label><br><br>
+    </form>
+    <h5>Video Source</h5>
+    <form id="Video Source">
+      <input type="checkbox" id="3rdview" name="3rdview" value="3rdview">
+      <label for="3rdview">Third Person View</label><br>
+      <input type="checkbox" id="CCTV" name="CCTV" value="CCTV">
+      <label for="CCTV">CCTV</label><br>
+      <input type="checkbox" id="Dashcam" name="Dashcam" value="Dashcam">
+      <label for="Dashcam">Dashcam</label><br><br>
+    </form>
+    <h5>Time of the Day</h5>
+    <form id="Video Source">
+      <input type="checkbox" id="Morning" name="Morning" value="Morning">
+      <label for="Morning">Morning</label><br>
+      <input type="checkbox" id="Evening" name="Evening" value="Evening">
+      <label for="Evening">Evening</label><br>
+      <input type="checkbox" id="Night" name="Night" value="Night">
+      <label for="Night">Night</label>
+    </form>
+  </div>
+<!-- <button id="show-more-btn">Show more</button> -->
+<div id="Filter">
+  {% for url, caption1 in video_data %}
+  <div class="keyword-results">
+    <div class="url">
+      <blockquote class="twitter-tweet">
+         <a href="{{url}}">Twitter Post</a>
+      </blockquote>
+      <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+    </div>
+  
+    <div class="caption1">
+        {% for x in caption1 %}
+        <button class="click_button" id="{{ x }}">{{x}}</button>
+          <!-- <p lang="en" dir="ltr">{{ x }}</p> -->
+        {% endfor %}
+    </div>
+  <div class="caption2">
+    <!-- {% for x in caption2%}
+    <p lang="en" dir="ltr">{{ x }}</p>
+  {% endfor %} -->
+  </div>
+</div>
+        {% endfor %}
+        
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
+<script src="../static/qscript.js"></script>
+
+</body>
+<!-- <link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css"rel=stylesheet> -->
+</html>
